@@ -1,0 +1,60 @@
+{
+  "python": "3.14.6 | packaged by Anaconda, Inc. | (main, Jul  9 2026, 14:29:05) [MSC v.1942 64 bit (AMD64)]",
+  "numpy": "2.4.6",
+  "scipy": "1.18.0",
+  "center_manifold": {
+    "alpha": "-9/14",
+    "beta": "-5/14",
+    "quadratic_coefficient": "-37/20"
+  },
+  "weighted_cubic_identity_residual": "0",
+  "mass_matrix_at_2p5_5_eigenvalues": [
+    0.391504716985849,
+    5.10849528301415
+  ],
+  "sharper_S2_example": {
+    "local_eigenvalues": [
+      0.5,
+      1.5
+    ],
+    "mean_eigenvalues": [
+      9.5,
+      12.5
+    ],
+    "original_S2_margin": -5
+  },
+  "sparse_jacobian_max_abs_error": 7.105427357601002e-15,
+  "mass_derivative_residuals": [
+    0.0,
+    4.440892098500626e-16
+  ],
+  "experiment_A_nonzero_mode_spectral_abscissa": {
+    "1": -7.5733519624250984,
+    "2": -14.214436614002189,
+    "4": -27.348730618472466,
+    "9": -59.88588748664385
+  },
+  "sha256": {
+    "main_revision1.tex": "25f1023cc0957c0122c6cdf77278b5a0f69ea5870cac63f6bce3567ad36b056f",
+    "code_revision1\\checkB.py": "75a36166133b674daf2435875a0e8f02fc7b1a94b4682987907bec0f1ea8a0d6",
+    "code_revision1\\drift2d.py": "1f1286bce3d88278315645bbf78fb6b7353a48f434cea1cd01bc83e4073b5e1f",
+    "code_revision1\\expC.py": "ecad42e257193ed7f6cf4b76241b9179fca88424abad73667f979c36311a3096",
+    "code_revision1\\expE.py": "b9aa5dc557e9774e350bed5cc9b0a09ab9a8dd6d7688c17d9f545736dc9bbc7a",
+    "code_revision1\\figs.py": "46b24be181f36f7dee53ab79914c3863edc950346b31974f7aebcf24c3ad3c2f",
+    "code_revision1\\figs2.py": "65e06aec3c2efebada021c43c5e285f8bf7bc165d9053449243bd12bb7634901",
+    "code_revision1\\figs3.py": "77fc30b8ec803ea29167fbe3c275ef38d9f92470c6c7cc353d73b570d1182ed0",
+    "code_revision1\\figs4.py": "9d1147e18cb42deefa57c1d00329e05ffcafbbfd7cc3853585bcb8ced6ab5ba7",
+    "code_revision1\\long2d.py": "015f92f7498116c0c1b514d2068756247513637c08a850d6fd029d8ad58982c5",
+    "code_revision1\\run2dA.py": "4b78c6994caf653a346df9265fe02105151141f38af4b3a97067fbca1afe194d",
+    "code_revision1\\run2dB.py": "dc2b7f5a3064b338d1f5654c995cf698fdd1f9c608dcc9981c9188d48cc0a591",
+    "code_revision1\\sim.py": "7c949908e30730eb0f662e110b870d99356d0c75dc5fde04e0376eae87e9ae86",
+    "code_revision1\\sim2d.py": "9df9c55bc873cd233afa99153e954222a8c94583c01065ca7a25b1a89652c31b",
+    "code_revision1\\sim2d_bdf2.py": "afc813378d5d847b2adeff8ac1c521df11789073367ca0f259f44d3cf1faa75c",
+    "figures\\rev1_fig1_convergence.pdf": "8cb01bb3e30b33a17af3a0280fd0e14e8c69d002f1bda45ea432cc760565f25d",
+    "figures\\rev1_fig2_exclusion.pdf": "de18f083a37cc26bd899bd46ecd77c76a0c58f9d946e0958b1fa81bc2cc82c59",
+    "figures\\rev1_fig2_masses.pdf": "b7c7e6feebf04903e2aef4aff432feb26f44cc7fa14a1e139ea3ff8d1ed91f56",
+    "figures\\rev1_fig3_masses1d.pdf": "75c9c7af37df3231b2d4c12874562a27e63fecea03d8b8a20c68669cc7ba8b37",
+    "figures\\rev1_fig4_masses2d.pdf": "d80a5de5a4bf5c449e68074d25780af73f4a691cc620cefaa6050f008fa9afa1",
+    "figures\\rev1_fig5_blowup.pdf": "79b40f81e611b7a921b3d931ab30471485df5c0d2e0d2388bb47e45863304e3e"
+  }
+}

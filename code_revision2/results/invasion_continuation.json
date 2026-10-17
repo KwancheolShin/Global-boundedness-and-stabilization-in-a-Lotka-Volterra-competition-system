@@ -1,0 +1,1006 @@
+{
+  "M2_N100": {
+    "N": 100,
+    "rare_species": "u",
+    "records": [
+      {
+        "c": 0.0,
+        "invasion_eigenvalue": 4.939342802540145e-06,
+        "resident_mass": 0.5052004849863861,
+        "residual_inf": 4.1002864189891575e-11,
+        "minimum_resident": 0.48219094289339964,
+        "minimum_resource": 0.4821454101763263,
+        "root_success": true
+      },
+      {
+        "c": 0.02,
+        "invasion_eigenvalue": 2.0792388504376395e-07,
+        "resident_mass": 0.5001955849767364,
+        "residual_inf": 4.341116322751498e-11,
+        "minimum_resident": 0.4771751266881141,
+        "minimum_resource": 0.48692347987685325,
+        "root_success": true
+      },
+      {
+        "c": 0.04,
+        "invasion_eigenvalue": -4.573779765537116e-06,
+        "resident_mass": 0.4952890543749413,
+        "residual_inf": 4.502440500102735e-11,
+        "minimum_resident": 0.47226157985559847,
+        "minimum_resource": 0.4916078380115355,
+        "root_success": true
+      },
+      {
+        "c": 0.06,
+        "invasion_eigenvalue": -9.401329980638377e-06,
+        "resident_mass": 0.4904780176419968,
+        "residual_inf": 4.8236300695912726e-11,
+        "minimum_resident": 0.4674472071869961,
+        "minimum_resource": 0.49620121273649365,
+        "root_success": true
+      },
+      {
+        "c": 0.08,
+        "invasion_eigenvalue": -1.4270549132290616e-05,
+        "resident_mass": 0.48575971036291044,
+        "residual_inf": 5.096210777054237e-11,
+        "minimum_resident": 0.46272903762873796,
+        "minimum_resource": 0.5007062274195379,
+        "root_success": true
+      },
+      {
+        "c": 0.1,
+        "invasion_eigenvalue": -1.9177508151194733e-05,
+        "resident_mass": 0.4811314739238238,
+        "residual_inf": 5.3630807260451885e-11,
+        "minimum_resident": 0.4581042180813826,
+        "minimum_resource": 0.5051254056178487,
+        "root_success": true
+      },
+      {
+        "c": 0.12,
+        "invasion_eigenvalue": -2.4118508941182402e-05,
+        "resident_mass": 0.47659075049257266,
+        "residual_inf": 5.646745478973467e-11,
+        "minimum_resident": 0.45357000756908517,
+        "minimum_resource": 0.5094611757750129,
+        "root_success": true
+      },
+      {
+        "c": 0.14,
+        "invasion_eigenvalue": -2.9090072258259625e-05,
+        "resident_mass": 0.47213507828266804,
+        "residual_inf": 5.948140005714031e-11,
+        "minimum_resident": 0.44912377175390567,
+        "minimum_resource": 0.5137158756556638,
+        "root_success": true
+      },
+      {
+        "c": 0.16,
+        "invasion_eigenvalue": -3.4088926672252926e-05,
+        "resident_mass": 0.46776208708217787,
+        "residual_inf": 6.339367182237043e-11,
+        "minimum_resident": 0.4447629777712239,
+        "minimum_resource": 0.517891756534638,
+        "root_success": true
+      },
+      {
+        "c": 0.18,
+        "invasion_eigenvalue": -3.911199297265782e-05,
+        "resident_mass": 0.4634694940303601,
+        "residual_inf": 6.540872064895314e-11,
+        "minimum_resident": 0.4404851893643838,
+        "minimum_resource": 0.5219909871563285,
+        "root_success": true
+      },
+      {
+        "c": 0.2,
+        "invasion_eigenvalue": -4.4156376316157843e-05,
+        "resident_mass": 0.4592550996261612,
+        "residual_inf": 6.910059492919868e-11,
+        "minimum_resident": 0.4362880622983945,
+        "minimum_resource": 0.5260156574787817,
+        "root_success": true
+      },
+      {
+        "c": 0.22,
+        "invasion_eigenvalue": -4.9219353199446636e-05,
+        "resident_mass": 0.45511678395384075,
+        "residual_inf": 7.237795367383282e-11,
+        "minimum_resident": 0.4321693400340619,
+        "minimum_resource": 0.5299677822160455,
+        "root_success": true
+      },
+      {
+        "c": 0.24,
+        "invasion_eigenvalue": -5.4298362396801886e-05,
+        "resident_mass": 0.4510525031120556,
+        "residual_inf": 7.606977656289537e-11,
+        "minimum_resident": 0.4281268496453462,
+        "minimum_resource": 0.5338493041913204,
+        "root_success": true
+      },
+      {
+        "c": 0.26,
+        "invasion_eigenvalue": -5.939099617795517e-05,
+        "resident_mass": 0.4470602858337043,
+        "residual_inf": 7.958979872726979e-11,
+        "minimum_resident": 0.4241584979640328,
+        "minimum_resource": 0.5376620975125782,
+        "root_success": true
+      },
+      {
+        "c": 0.28,
+        "invasion_eigenvalue": -6.449498942240877e-05,
+        "resident_mass": 0.4431382302847353,
+        "residual_inf": 8.317088229063685e-11,
+        "minimum_resident": 0.42026226793699256,
+        "minimum_resource": 0.5414079705815031,
+        "root_success": true
+      },
+      {
+        "c": 0.3,
+        "invasion_eigenvalue": -6.96082133342074e-05,
+        "resident_mass": 0.4392845010309491,
+        "residual_inf": 8.707874764139756e-11,
+        "minimum_resident": 0.41643621518239604,
+        "minimum_resource": 0.5450886689458595,
+        "root_success": true
+      },
+      {
+        "c": 0.32,
+        "invasion_eigenvalue": -7.472866591989367e-05,
+        "resident_mass": 0.43549732616258785,
+        "residual_inf": 9.04859412224901e-11,
+        "minimum_resident": 0.4126784647322398,
+        "minimum_resource": 0.5487058780046964,
+        "root_success": true
+      },
+      {
+        "c": 0.34,
+        "invasion_eigenvalue": -7.985446635643521e-05,
+        "resident_mass": 0.4317749945672071,
+        "residual_inf": 9.379494316646975e-11,
+        "minimum_resident": 0.4089872079494617,
+        "minimum_resource": 0.5522612255751596,
+        "root_success": true
+      },
+      {
+        "c": 0.36,
+        "invasion_eigenvalue": -8.498384588788736e-05,
+        "resident_mass": 0.4281158533419772,
+        "residual_inf": 9.723174826045677e-11,
+        "minimum_resident": 0.4053606996087601,
+        "minimum_resource": 0.5557562843290916,
+        "root_success": true
+      },
+      {
+        "c": 0.38,
+        "invasion_eigenvalue": -9.011514321248468e-05,
+        "resident_mass": 0.42451830533715756,
+        "residual_inf": 1.011936070962477e-10,
+        "minimum_resident": 0.4017972551310088,
+        "minimum_resource": 0.5591925741070521,
+        "root_success": true
+      },
+      {
+        "c": 0.4,
+        "invasion_eigenvalue": -9.524679657615411e-05,
+        "resident_mass": 0.4209808068230463,
+        "residual_inf": 1.0465271813205057e-10,
+        "minimum_resident": 0.39829524796186644,
+        "minimum_resource": 0.5625715641168849,
+        "root_success": true
+      },
+      {
+        "c": 0.42,
+        "invasion_eigenvalue": -0.00010037734063714348,
+        "resident_mass": 0.417501865273214,
+        "residual_inf": 1.0849931565172499e-10,
+        "minimum_resident": 0.39485310708583876,
+        "minimum_resource": 0.5658946750234887,
+        "root_success": true
+      },
+      {
+        "c": 0.44,
+        "invasion_eigenvalue": -0.00010550539686808203,
+        "resident_mass": 0.4140800372573144,
+        "residual_inf": 1.1217310305448869e-10,
+        "minimum_resident": 0.39146931466765417,
+        "minimum_resource": 0.5691632809360161,
+        "root_success": true
+      },
+      {
+        "c": 0.46,
+        "invasion_eigenvalue": -0.00011062967210782694,
+        "resident_mass": 0.4107139264371929,
+        "residual_inf": 1.1568301525044511e-10,
+        "minimum_resident": 0.3881424038133696,
+        "minimum_resource": 0.5723787112983187,
+        "root_success": true
+      },
+      {
+        "c": 0.48,
+        "invasion_eigenvalue": -0.00011574895333662616,
+        "resident_mass": 0.4074021816604318,
+        "residual_inf": 1.2009591758566085e-10,
+        "minimum_resident": 0.38487095644414154,
+        "minimum_resource": 0.575542252688087,
+        "root_success": true
+      },
+      {
+        "c": 0.5,
+        "invasion_eigenvalue": -0.00012086210001753791,
+        "resident_mass": 0.4041434951458426,
+        "residual_inf": 1.239825982764925e-10,
+        "minimum_resident": 0.3816536012760674,
+        "minimum_resource": 0.5786551505297809,
+        "root_success": true
+      }
+    ],
+    "crossings": [
+      {
+        "c": 0.020873919026696892,
+        "invasion_eigenvalue": 1.3405888757137066e-13,
+        "resident_mass": 0.4999791555002988,
+        "residual_inf": 4.314193566192642e-11,
+        "minimum_resident": 0.47695831079263107,
+        "minimum_resource": 0.4871301050928263,
+        "root_success": true
+      }
+    ]
+  },
+  "M3_N100": {
+    "N": 100,
+    "rare_species": "v",
+    "records": [
+      {
+        "c": 0.0,
+        "invasion_eigenvalue": 2.26984096887903e-06,
+        "resident_mass": 0.5052041530954039,
+        "residual_inf": 8.802047456245125e-11,
+        "minimum_resident": 0.482240601564465,
+        "minimum_resource": 0.4821419595531275,
+        "root_success": true
+      },
+      {
+        "c": 0.02,
+        "invasion_eigenvalue": 4.2544793617915675e-08,
+        "resident_mass": 0.500195787894064,
+        "residual_inf": 9.289153190953411e-11,
+        "minimum_resident": 0.47712119246797874,
+        "minimum_resource": 0.48692396895631024,
+        "root_success": true
+      },
+      {
+        "c": 0.04,
+        "invasion_eigenvalue": -2.246373622997221e-06,
+        "resident_mass": 0.49528585460531993,
+        "residual_inf": 9.769447922213176e-11,
+        "minimum_resident": 0.47210438103457275,
+        "minimum_resource": 0.4916123045891367,
+        "root_success": true
+      },
+      {
+        "c": 0.06,
+        "invasion_eigenvalue": -4.595433743727522e-06,
+        "resident_mass": 0.4904714783806955,
+        "residual_inf": 1.0275589394602154e-10,
+        "minimum_resident": 0.46718712501596654,
+        "minimum_resource": 0.49620969011249627,
+        "root_success": true
+      },
+      {
+        "c": 0.08,
+        "invasion_eigenvalue": -7.003221069700405e-06,
+        "resident_mass": 0.4857498953138713,
+        "residual_inf": 1.0796022616063302e-10,
+        "minimum_resident": 0.4623665018162564,
+        "minimum_resource": 0.5007187446482949,
+        "root_success": true
+      },
+      {
+        "c": 0.1,
+        "invasion_eigenvalue": -9.468366254986288e-06,
+        "resident_mass": 0.48111844713577545,
+        "residual_inf": 1.1329471955316868e-10,
+        "minimum_resident": 0.4576397026255699,
+        "minimum_resource": 0.5051419877452341,
+        "root_success": true
+      },
+      {
+        "c": 0.12,
+        "invasion_eigenvalue": -1.1989549249832885e-05,
+        "resident_mass": 0.47657457621149873,
+        "residual_inf": 1.1880467798235615e-10,
+        "minimum_resident": 0.4530040268983899,
+        "minimum_resource": 0.5094818440643634,
+        "root_success": true
+      },
+      {
+        "c": 0.14,
+        "invasion_eigenvalue": -1.456548602919755e-05,
+        "resident_mass": 0.47211582081916653,
+        "residual_inf": 1.2454361844669963e-10,
+        "minimum_resident": 0.4484568771529289,
+        "minimum_resource": 0.5137406478026675,
+        "root_success": true
+      },
+      {
+        "c": 0.16,
+        "invasion_eigenvalue": -1.719495288597277e-05,
+        "resident_mass": 0.4677398106923766,
+        "residual_inf": 1.3044848889780768e-10,
+        "minimum_resident": 0.44399575406978836,
+        "minimum_resource": 0.5179206468716013,
+        "root_success": true
+      },
+      {
+        "c": 0.18,
+        "invasion_eigenvalue": -1.987675486701342e-05,
+        "resident_mass": 0.4634442628091741,
+        "residual_inf": 1.3651318205194773e-10,
+        "minimum_resident": 0.43961825186981973,
+        "minimum_resource": 0.5220240068462566,
+        "root_success": true
+      },
+      {
+        "c": 0.2,
+        "invasion_eigenvalue": -2.2609741056029122e-05,
+        "resident_mass": 0.45922697741178603,
+        "residual_inf": 1.4273187124401454e-10,
+        "minimum_resident": 0.43532205395265006,
+        "minimum_resource": 0.5260528146997016,
+        "root_success": true
+      },
+      {
+        "c": 0.22,
+        "invasion_eigenvalue": -2.539280402799715e-05,
+        "resident_mass": 0.4550858342424759,
+        "residual_inf": 1.4923482116952283e-10,
+        "minimum_resident": 0.4311049287787355,
+        "minimum_resource": 0.5300090823359976,
+        "root_success": true
+      },
+      {
+        "c": 0.24,
+        "invasion_eigenvalue": -2.822486078507962e-05,
+        "resident_mass": 0.45101878898194137,
+        "residual_inf": 1.5591032783389414e-10,
+        "minimum_resident": 0.4269647259790989,
+        "minimum_resource": 0.5338947499344345,
+        "root_success": true
+      },
+      {
+        "c": 0.26,
+        "invasion_eigenvalue": -3.110487645871795e-05,
+        "resident_mass": 0.4470238698776353,
+        "residual_inf": 1.6284533687878702e-10,
+        "minimum_resident": 0.4228993726780804,
+        "minimum_resource": 0.5377116891166384,
+        "root_success": true
+      },
+      {
+        "c": 0.28,
+        "invasion_eigenvalue": -3.403184041423946e-05,
+        "resident_mass": 0.44309917455028985,
+        "residual_inf": 1.6993153184510085e-10,
+        "minimum_resident": 0.41890687001551397,
+        "minimum_resource": 0.5414617059473992,
+        "root_success": true
+      },
+      {
+        "c": 0.3,
+        "invasion_eigenvalue": -3.700477824455043e-05,
+        "resident_mass": 0.43924286696774056,
+        "residual_inf": 1.7725858362507493e-10,
+        "minimum_resident": 0.4149852898557294,
+        "minimum_resource": 0.545146543779306,
+        "root_success": true
+      },
+      {
+        "c": 0.32,
+        "invasion_eigenvalue": -4.002274441891436e-05,
+        "resident_mass": 0.4354531745759035,
+        "residual_inf": 1.8487419407853256e-10,
+        "minimum_resident": 0.4111327716716918,
+        "minimum_resource": 0.5487678859505882,
+        "root_success": true
+      },
+      {
+        "c": 0.34,
+        "invasion_eigenvalue": -4.3084828642347017e-05,
+        "resident_mass": 0.4317283855774576,
+        "residual_inf": 1.9271611726139753e-10,
+        "minimum_resident": 0.40734751959342025,
+        "minimum_resource": 0.5523273583449221,
+        "root_success": true
+      },
+      {
+        "c": 0.36,
+        "invasion_eigenvalue": -4.6190134553575885e-05,
+        "resident_mass": 0.4280668463494301,
+        "residual_inf": 2.0086533489022812e-10,
+        "minimum_resident": 0.40362779961060413,
+        "minimum_resource": 0.5558265318213665,
+        "root_success": true
+      },
+      {
+        "c": 0.38,
+        "invasion_eigenvalue": -4.933780909180097e-05,
+        "resident_mass": 0.4244669589914729,
+        "residual_inf": 2.0932332386522368e-10,
+        "minimum_resident": 0.39997193692003147,
+        "minimum_resource": 0.5592669245220483,
+        "root_success": true
+      },
+      {
+        "c": 0.4,
+        "invasion_eigenvalue": -5.252700846171977e-05,
+        "resident_mass": 0.4209271789971758,
+        "residual_inf": 2.1797199288575708e-10,
+        "minimum_resident": 0.3963783134091065,
+        "minimum_resource": 0.5626500040647096,
+        "root_success": true
+      },
+      {
+        "c": 0.42,
+        "invasion_eigenvalue": -5.575693231776567e-05,
+        "resident_mass": 0.41744601304126455,
+        "residual_inf": 2.269801155840509e-10,
+        "minimum_resident": 0.39284536526732583,
+        "minimum_resource": 0.5659771896267597,
+        "root_success": true
+      },
+      {
+        "c": 0.44,
+        "invasion_eigenvalue": -5.902678951596079e-05,
+        "resident_mass": 0.4140220168760064,
+        "residual_inf": 2.3632109886605884e-10,
+        "minimum_resident": 0.38937158071813566,
+        "minimum_resource": 0.5692498539270446,
+        "root_success": true
+      },
+      {
+        "c": 0.46,
+        "invasion_eigenvalue": -6.233581715648285e-05,
+        "resident_mass": 0.4106537933305832,
+        "residual_inf": 2.4605373684719045e-10,
+        "minimum_resident": 0.3859554978641179,
+        "minimum_resource": 0.5724693251111364,
+        "root_success": true
+      },
+      {
+        "c": 0.48,
+        "invasion_eigenvalue": -6.5683270948717e-05,
+        "resident_mass": 0.4073399904075935,
+        "residual_inf": 2.5606219575258216e-10,
+        "minimum_resident": 0.382595702638903,
+        "minimum_resource": 0.5756368885455793,
+        "root_success": true
+      },
+      {
+        "c": 0.5,
+        "invasion_eigenvalue": -6.906842429466506e-05,
+        "resident_mass": 0.4040792994696195,
+        "residual_inf": 1.5345627546459184e-11,
+        "minimum_resident": 0.37929082686682375,
+        "minimum_resource": 0.5787537885262778,
+        "root_success": true
+      }
+    ],
+    "crossings": [
+      {
+        "c": 0.020376664176289472,
+        "invasion_eigenvalue": -5.779714525809177e-13,
+        "resident_mass": 0.5001024178552813,
+        "residual_inf": 9.29077973951288e-11,
+        "minimum_resident": 0.47702577162167437,
+        "minimum_resource": 0.4870131221231246,
+        "root_success": true
+      }
+    ]
+  },
+  "M2_N200": {
+    "N": 200,
+    "rare_species": "u",
+    "records": [
+      {
+        "c": 0.0,
+        "invasion_eigenvalue": 4.938559859197579e-06,
+        "resident_mass": 0.5052002253097939,
+        "residual_inf": 4.1792890708488434e-11,
+        "minimum_resident": 0.4821899217832067,
+        "minimum_resource": 0.48214432001104834,
+        "root_success": true
+      },
+      {
+        "c": 0.02,
+        "invasion_eigenvalue": 2.0763745145760822e-07,
+        "resident_mass": 0.5001953282157089,
+        "residual_inf": 4.601834980243712e-11,
+        "minimum_resident": 0.4771741094759659,
+        "minimum_resource": 0.48692237943511346,
+        "root_success": true
+      },
+      {
+        "c": 0.04,
+        "invasion_eigenvalue": -4.573567902211086e-06,
+        "resident_mass": 0.49528880044696066,
+        "residual_inf": 4.787755303197231e-11,
+        "minimum_resident": 0.47226056660103105,
+        "minimum_resource": 0.4916067274988437,
+        "root_success": true
+      },
+      {
+        "c": 0.06,
+        "invasion_eigenvalue": -9.400614770668654e-06,
+        "resident_mass": 0.490477766468061,
+        "residual_inf": 4.8890097712980286e-11,
+        "minimum_resident": 0.4674461979440732,
+        "minimum_resource": 0.49620009235203394,
+        "root_success": true
+      },
+      {
+        "c": 0.08,
+        "invasion_eigenvalue": -1.4269329173420296e-05,
+        "resident_mass": 0.48575946186733987,
+        "residual_inf": 5.0495356485567855e-11,
+        "minimum_resident": 0.4627280324463877,
+        "minimum_resource": 0.5007050973564313,
+        "root_success": true
+      },
+      {
+        "c": 0.1,
+        "invasion_eigenvalue": -1.9175780690506953e-05,
+        "resident_mass": 0.48113122803408087,
+        "residual_inf": 5.417092604565257e-11,
+        "minimum_resident": 0.4581032170037149,
+        "minimum_resource": 0.5051242660634024,
+        "root_success": true
+      },
+      {
+        "c": 0.12,
+        "invasion_eigenvalue": -2.4116273444296212e-05,
+        "resident_mass": 0.47659050713909346,
+        "residual_inf": 5.806441200247037e-11,
+        "minimum_resident": 0.453569010635688,
+        "minimum_resource": 0.5094600269109562,
+        "root_success": true
+      },
+      {
+        "c": 0.14,
+        "invasion_eigenvalue": -2.908732719583123e-05,
+        "resident_mass": 0.47213483739870454,
+        "residual_inf": 5.941694028064812e-11,
+        "minimum_resident": 0.44912277900012376,
+        "minimum_resource": 0.513714717658372,
+        "root_success": true
+      },
+      {
+        "c": 0.16,
+        "invasion_eigenvalue": -3.408567072114792e-05,
+        "resident_mass": 0.46776184860365033,
+        "residual_inf": 6.30191661658494e-11,
+        "minimum_resident": 0.44476198922842,
+        "minimum_resource": 0.5178905895753461,
+        "root_success": true
+      },
+      {
+        "c": 0.18,
+        "invasion_eigenvalue": -3.91082266831141e-05,
+        "resident_mass": 0.46346925789571963,
+        "residual_inf": 6.522252659832417e-11,
+        "minimum_resident": 0.4404842050601838,
+        "minimum_resource": 0.5219898114013326,
+        "root_success": true
+      },
+      {
+        "c": 0.2,
+        "invasion_eigenvalue": -4.4152098317984484e-05,
+        "resident_mass": 0.45925486577625924,
+        "residual_inf": 6.8810188666793e-11,
+        "minimum_resident": 0.43628708225691815,
+        "minimum_resource": 0.5260144730896319,
+        "root_success": true
+      },
+      {
+        "c": 0.22,
+        "invasion_eigenvalue": -4.9214563165183914e-05,
+        "resident_mass": 0.4551165523318086,
+        "residual_inf": 7.318581060188761e-11,
+        "minimum_resident": 0.4321683642761385,
+        "minimum_resource": 0.5299665893497284,
+        "root_success": true
+      },
+      {
+        "c": 0.24,
+        "invasion_eigenvalue": -5.429306087541768e-05,
+        "resident_mass": 0.45105227366319,
+        "residual_inf": 7.569540057695417e-11,
+        "minimum_resident": 0.42812587818871795,
+        "minimum_resource": 0.5338481030004332,
+        "root_success": true
+      },
+      {
+        "c": 0.26,
+        "invasion_eigenvalue": -5.9385182482409955e-05,
+        "resident_mass": 0.4470600585053603,
+        "residual_inf": 8.18739364499832e-11,
+        "minimum_resident": 0.4241575308235456,
+        "minimum_resource": 0.5376608881454943,
+        "root_success": true
+      },
+      {
+        "c": 0.28,
+        "invasion_eigenvalue": -6.448866362517238e-05,
+        "resident_mass": 0.4431380050262256,
+        "residual_inf": 8.381795691542182e-11,
+        "minimum_resident": 0.4202613051247754,
+        "minimum_resource": 0.54140675318253,
+        "root_success": true
+      },
+      {
+        "c": 0.3,
+        "invasion_eigenvalue": -6.960137639174347e-05,
+        "resident_mass": 0.4392842777934496,
+        "residual_inf": 8.717022806706276e-11,
+        "minimum_resident": 0.41643525670802944,
+        "minimum_resource": 0.5450874436553891,
+        "root_success": true
+      },
+      {
+        "c": 0.32,
+        "invasion_eigenvalue": -7.472131800804232e-05,
+        "resident_mass": 0.4354971048990484,
+        "residual_inf": 9.016445446166643e-11,
+        "minimum_resident": 0.41267751060291435,
+        "minimum_resource": 0.5487046449593486,
+        "root_success": true
+      },
+      {
+        "c": 0.34,
+        "invasion_eigenvalue": -7.984660843686776e-05,
+        "resident_mass": 0.43177477523226754,
+        "residual_inf": 9.270211551518082e-11,
+        "minimum_resident": 0.408986258170127,
+        "minimum_resource": 0.5522599849079189,
+        "root_success": true
+      },
+      {
+        "c": 0.36,
+        "invasion_eigenvalue": -8.497548003296376e-05,
+        "resident_mass": 0.42811563589188834,
+        "residual_inf": 9.884086192742114e-11,
+        "minimum_resident": 0.4053597541822653,
+        "minimum_resource": 0.5557550361694379,
+        "root_success": true
+      },
+      {
+        "c": 0.38,
+        "invasion_eigenvalue": -9.010626817858117e-05,
+        "resident_mass": 0.42451808972970684,
+        "residual_inf": 1.0016149259821361e-10,
+        "minimum_resident": 0.4017963140582341,
+        "minimum_resource": 0.5591913185810852,
+        "root_success": true
+      },
+      {
+        "c": 0.4,
+        "invasion_eigenvalue": -9.52374153340397e-05,
+        "resident_mass": 0.42098059301748647,
+        "residual_inf": 1.0434677492725253e-10,
+        "minimum_resident": 0.3982943112418477,
+        "minimum_resource": 0.5625703013474435,
+        "root_success": true
+      },
+      {
+        "c": 0.42,
+        "invasion_eigenvalue": -0.00010036745438301933,
+        "resident_mass": 0.41750165323019806,
+        "residual_inf": 1.0864568489657445e-10,
+        "minimum_resident": 0.394852174715884,
+        "minimum_resource": 0.5658934051302644,
+        "root_success": true
+      },
+      {
+        "c": 0.44,
+        "invasion_eigenvalue": -0.00010549500679973495,
+        "resident_mass": 0.4140798269388317,
+        "residual_inf": 1.122978767267857e-10,
+        "minimum_resident": 0.39146838664345335,
+        "minimum_resource": 0.5691620040356622,
+        "root_success": true
+      },
+      {
+        "c": 0.46,
+        "invasion_eigenvalue": -0.0001106187782865468,
+        "resident_mass": 0.41071371780651006,
+        "residual_inf": 1.1672833641514224e-10,
+        "minimum_resident": 0.38814148012909894,
+        "minimum_resource": 0.5723774275045544,
+        "root_success": true
+      },
+      {
+        "c": 0.48,
+        "invasion_eigenvalue": -0.00011573755783634039,
+        "resident_mass": 0.4074019746820368,
+        "residual_inf": 1.1966627385187611e-10,
+        "minimum_resident": 0.38487003709256035,
+        "minimum_resource": 0.5755409621117967,
+        "root_success": true
+      },
+      {
+        "c": 0.5,
+        "invasion_eigenvalue": -0.00012085020488618325,
+        "resident_mass": 0.40414328978539116,
+        "residual_inf": 1.24320091330829e-10,
+        "minimum_resident": 0.38165268624861043,
+        "minimum_resource": 0.5786538532791098,
+        "root_success": true
+      }
+    ],
+    "crossings": [
+      {
+        "c": 0.020872800718757106,
+        "invasion_eigenvalue": 2.9946281665354055e-13,
+        "resident_mass": 0.49997917569804906,
+        "residual_inf": 4.4331208070235405e-11,
+        "minimum_resident": 0.4769575710751692,
+        "minimum_resource": 0.4871287399142168,
+        "root_success": true
+      }
+    ]
+  },
+  "M3_N200": {
+    "N": 200,
+    "rare_species": "v",
+    "records": [
+      {
+        "c": 0.0,
+        "invasion_eigenvalue": 2.269565529140316e-06,
+        "resident_mass": 0.5052038927558247,
+        "residual_inf": 8.828342587139867e-11,
+        "minimum_resident": 0.4822395717703711,
+        "minimum_resource": 0.48214086958892827,
+        "root_success": true
+      },
+      {
+        "c": 0.02,
+        "invasion_eigenvalue": 4.2429616058011076e-08,
+        "resident_mass": 0.5001955309111336,
+        "residual_inf": 9.322060980673612e-11,
+        "minimum_resident": 0.47712016542214475,
+        "minimum_resource": 0.4869228686358286,
+        "root_success": true
+      },
+      {
+        "c": 0.04,
+        "invasion_eigenvalue": -2.2463189439077866e-06,
+        "resident_mass": 0.49528560088854134,
+        "residual_inf": 9.828472171053478e-11,
+        "minimum_resident": 0.47210335679472454,
+        "minimum_resource": 0.4916111941199855,
+        "root_success": true
+      },
+      {
+        "c": 0.06,
+        "invasion_eigenvalue": -4.595191374431385e-06,
+        "resident_mass": 0.49047122784306035,
+        "residual_inf": 1.0299251383142293e-10,
+        "minimum_resident": 0.46718610363585256,
+        "minimum_resource": 0.49620856969600563,
+        "root_success": true
+      },
+      {
+        "c": 0.08,
+        "invasion_eigenvalue": -7.002803899843837e-06,
+        "resident_mass": 0.48574964787168307,
+        "residual_inf": 1.0839141544494342e-10,
+        "minimum_resident": 0.46236548334588956,
+        "minimum_resource": 0.5007176144797656,
+        "root_success": true
+      },
+      {
+        "c": 0.1,
+        "invasion_eigenvalue": -9.46776797446479e-06,
+        "resident_mass": 0.4811182027084851,
+        "residual_inf": 1.136648739946634e-10,
+        "minimum_resident": 0.457638687111454,
+        "minimum_resource": 0.5051408480141789,
+        "root_success": true
+      },
+      {
+        "c": 0.12,
+        "invasion_eigenvalue": -1.1988767585553354e-05,
+        "resident_mass": 0.47657433472155125,
+        "residual_inf": 1.1939976749821522e-10,
+        "minimum_resident": 0.45300301438373,
+        "minimum_resource": 0.509480694954736,
+        "root_success": true
+      },
+      {
+        "c": 0.14,
+        "invasion_eigenvalue": -1.4564491466984454e-05,
+        "resident_mass": 0.4721155821918558,
+        "residual_inf": 1.2516509836500885e-10,
+        "minimum_resident": 0.44845586767782813,
+        "minimum_resource": 0.5137394894930805,
+        "root_success": true
+      },
+      {
+        "c": 0.16,
+        "invasion_eigenvalue": -1.7193766141433995e-05,
+        "resident_mass": 0.46773957485570833,
+        "residual_inf": 1.3130903230517375e-10,
+        "minimum_resident": 0.44399474767143077,
+        "minimum_resource": 0.5179194795355329,
+        "root_success": true
+      },
+      {
+        "c": 0.18,
+        "invasion_eigenvalue": -1.9875371547473562e-05,
+        "resident_mass": 0.4634440296937384,
+        "residual_inf": 1.3718947652159239e-10,
+        "minimum_resident": 0.43961724858264234,
+        "minimum_resource": 0.5220228306522475,
+        "root_success": true
+      },
+      {
+        "c": 0.2,
+        "invasion_eigenvalue": -2.2608145802290588e-05,
+        "resident_mass": 0.45922674695063576,
+        "residual_inf": 1.432971844482489e-10,
+        "minimum_resident": 0.4353210538085023,
+        "minimum_resource": 0.526051629811543,
+        "root_success": true
+      },
+      {
+        "c": 0.22,
+        "invasion_eigenvalue": -2.53909862249657e-05,
+        "resident_mass": 0.4550856063710137,
+        "residual_inf": 1.4993430759099868e-10,
+        "minimum_resident": 0.4311039318070297,
+        "minimum_resource": 0.5300078889129097,
+        "root_success": true
+      },
+      {
+        "c": 0.24,
+        "invasion_eigenvalue": -2.8222830835542328e-05,
+        "resident_mass": 0.4510185636378117,
+        "residual_inf": 1.5654480852887384e-10,
+        "minimum_resident": 0.4269637322069498,
+        "minimum_resource": 0.5338935481312364,
+        "root_success": true
+      },
+      {
+        "c": 0.26,
+        "invasion_eigenvalue": -3.110262460999856e-05,
+        "resident_mass": 0.447023647000623,
+        "residual_inf": 1.6357073432272246e-10,
+        "minimum_resident": 0.4228983821304363,
+        "minimum_resource": 0.5377104790839107,
+        "root_success": true
+      },
+      {
+        "c": 0.28,
+        "invasion_eigenvalue": -3.402936104281364e-05,
+        "resident_mass": 0.443098954082225,
+        "residual_inf": 1.7054545883160577e-10,
+        "minimum_resident": 0.4189058827152802,
+        "minimum_resource": 0.541460487831639,
+        "root_success": true
+      },
+      {
+        "c": 0.3,
+        "invasion_eigenvalue": -3.700207279825078e-05,
+        "resident_mass": 0.4392426488524074,
+        "residual_inf": 1.7790373574256765e-10,
+        "minimum_resident": 0.41498430582388307,
+        "minimum_resource": 0.5451453177230742,
+        "root_success": true
+      },
+      {
+        "c": 0.32,
+        "invasion_eigenvalue": -4.001981638636237e-05,
+        "resident_mass": 0.4354529587589552,
+        "residual_inf": 1.8565694370319824e-10,
+        "minimum_resident": 0.4111317909273901,
+        "minimum_resource": 0.5487666520926509,
+        "root_success": true
+      },
+      {
+        "c": 0.34,
+        "invasion_eigenvalue": -4.308164476447188e-05,
+        "resident_mass": 0.4317281720063356,
+        "residual_inf": 1.9366261383175348e-10,
+        "minimum_resident": 0.4073465421541018,
+        "minimum_resource": 0.5523261168203852,
+        "root_success": true
+      },
+      {
+        "c": 0.36,
+        "invasion_eigenvalue": -4.61867205408501e-05,
+        "resident_mass": 0.428066634973287,
+        "residual_inf": 2.0193090884308706e-10,
+        "minimum_resident": 0.4036268254920845,
+        "minimum_resource": 0.5558252827618048,
+        "root_success": true
+      },
+      {
+        "c": 0.38,
+        "invasion_eigenvalue": -4.933414967930026e-05,
+        "resident_mass": 0.42446674976110027,
+        "residual_inf": 2.1028481592740705e-10,
+        "minimum_resident": 0.39997096613659233,
+        "minimum_resource": 0.5592656680556282,
+        "root_success": true
+      },
+      {
+        "c": 0.4,
+        "invasion_eigenvalue": -5.252310433779171e-05,
+        "resident_mass": 0.42092697186493544,
+        "residual_inf": 2.1891495018654117e-10,
+        "minimum_resident": 0.3963773459735801,
+        "minimum_resource": 0.562648740316307,
+        "root_success": true
+      },
+      {
+        "c": 0.42,
+        "invasion_eigenvalue": -5.5752774494717645e-05,
+        "resident_mass": 0.4174458079610226,
+        "residual_inf": 2.2801604907581735e-10,
+        "minimum_resident": 0.39284440119117287,
+        "minimum_resource": 0.5659759187180736,
+        "root_success": true
+      },
+      {
+        "c": 0.44,
+        "invasion_eigenvalue": -5.902236558989624e-05,
+        "resident_mass": 0.41402181380307324,
+        "residual_inf": 2.3747077427301727e-10,
+        "minimum_resident": 0.38937062001152173,
+        "minimum_resource": 0.5692485759767028,
+        "root_success": true
+      },
+      {
+        "c": 0.46,
+        "invasion_eigenvalue": -6.233113490436486e-05,
+        "resident_mass": 0.41065359222165243,
+        "residual_inf": 2.472620388603228e-10,
+        "minimum_resident": 0.385954540535982,
+        "minimum_resource": 0.5724680402348007,
+        "root_success": true
+      },
+      {
+        "c": 0.48,
+        "invasion_eigenvalue": -6.567831899975703e-05,
+        "resident_mass": 0.4073397912206875,
+        "residual_inf": 2.5731988415045315e-10,
+        "minimum_resident": 0.382594748697025,
+        "minimum_resource": 0.575635596856044,
+        "root_success": true
+      },
+      {
+        "c": 0.5,
+        "invasion_eigenvalue": -6.90632193244948e-05,
+        "resident_mass": 0.4040791021640435,
+        "residual_inf": 1.53421773983059e-11,
+        "minimum_resident": 0.3792898763178791,
+        "minimum_resource": 0.5787524901335636,
+        "root_success": true
+      }
+    ],
+    "crossings": [
+      {
+        "c": 0.020375749523552585,
+        "invasion_eigenvalue": -8.088294317210265e-12,
+        "resident_mass": 0.5001023876225162,
+        "residual_inf": 9.320385744660334e-11,
+        "minimum_resident": 0.4770249762942013,
+        "minimum_resource": 0.4870118051598787,
+        "root_success": true
+      }
+    ]
+  }
+}

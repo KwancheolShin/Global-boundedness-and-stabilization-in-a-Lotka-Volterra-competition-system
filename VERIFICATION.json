@@ -1,0 +1,24 @@
+{
+  "rerun_modes": [
+    "holling",
+    "invasion"
+  ],
+  "comparisons": {
+    "hollingII.json": {
+      "max_absolute_difference": 2.6645352591003757e-15,
+      "numeric_values": 4427
+    },
+    "invasion_continuation.json": {
+      "max_absolute_difference": 1.7763568827683374e-11,
+      "numeric_values": 652
+    }
+  },
+  "no_flux_mass_balance_max_defect": 1.587618925213974e-14,
+  "status": "passed",
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.4.6",
+    "scipy": "1.18.0"
+  },
+  "scope": "Representative Holling II and resident invasion reruns; no full rerun of all long integrations."
+}

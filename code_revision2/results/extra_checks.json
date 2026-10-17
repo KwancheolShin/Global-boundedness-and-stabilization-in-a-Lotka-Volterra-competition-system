@@ -1,0 +1,194 @@
+{
+  "invasion_diagnostics": {
+    "M1_resident_u_N100": {
+      "N": 100,
+      "resident": "u",
+      "root_success": true,
+      "residual_inf": 2.7571278593541138e-12,
+      "minimum_R": 0.49752495199106833,
+      "minimum_W": 0.48167608569509995,
+      "resident_mass": 0.505605068226125,
+      "absent_invasion_eigenvalue": -0.00011430445792962805
+    },
+    "M1_resident_v_N100": {
+      "N": 100,
+      "resident": "v",
+      "root_success": true,
+      "residual_inf": 2.660843767543497e-12,
+      "minimum_R": 0.5045301657422091,
+      "minimum_W": 0.4815412344957647,
+      "resident_mass": 0.5057119125662133,
+      "absent_invasion_eigenvalue": 0.0002434151650664699
+    },
+    "M2_resident_u_N100": {
+      "N": 100,
+      "resident": "u",
+      "root_success": true,
+      "residual_inf": 2.7571278593541138e-12,
+      "minimum_R": 0.49752495199106833,
+      "minimum_W": 0.48167608569509995,
+      "resident_mass": 0.505605068226125,
+      "absent_invasion_eigenvalue": 0.00028698399943757945
+    },
+    "M2_resident_v_N100": {
+      "N": 100,
+      "resident": "v",
+      "root_success": true,
+      "residual_inf": 4.1002864189891575e-11,
+      "minimum_R": 0.48219094289339964,
+      "minimum_W": 0.4821454101763263,
+      "resident_mass": 0.5052004849863861,
+      "absent_invasion_eigenvalue": 4.939342802540145e-06
+    },
+    "M3_resident_u_N100": {
+      "N": 100,
+      "resident": "u",
+      "root_success": true,
+      "residual_inf": 8.802047456245125e-11,
+      "minimum_R": 0.4822406015644651,
+      "minimum_W": 0.4821419595531275,
+      "resident_mass": 0.5052041530954039,
+      "absent_invasion_eigenvalue": 2.26984096887903e-06
+    },
+    "M3_resident_v_N100": {
+      "N": 100,
+      "resident": "v",
+      "root_success": true,
+      "residual_inf": 2.660843767543497e-12,
+      "minimum_R": 0.5045301657422091,
+      "minimum_W": 0.4815412344957647,
+      "resident_mass": 0.5057119125662133,
+      "absent_invasion_eigenvalue": 0.001275050127596826
+    },
+    "M1_resident_u_N200": {
+      "N": 200,
+      "resident": "u",
+      "root_success": true,
+      "residual_inf": 1.0313860876465242e-11,
+      "minimum_R": 0.49752470153639566,
+      "minimum_W": 0.4816749761793853,
+      "resident_mass": 0.5056047699298007,
+      "absent_invasion_eigenvalue": -0.00011428907821791517
+    },
+    "M1_resident_v_N200": {
+      "N": 200,
+      "resident": "v",
+      "root_success": true,
+      "residual_inf": 1.299546581456923e-11,
+      "minimum_R": 0.5045298801844221,
+      "minimum_W": 0.4815401169112706,
+      "resident_mass": 0.505711596984695,
+      "absent_invasion_eigenvalue": 0.00024337295964372148
+    },
+    "M2_resident_u_N200": {
+      "N": 200,
+      "resident": "u",
+      "root_success": true,
+      "residual_inf": 1.0313860876465242e-11,
+      "minimum_R": 0.49752470153639566,
+      "minimum_W": 0.4816749761793853,
+      "resident_mass": 0.5056047699298007,
+      "absent_invasion_eigenvalue": 0.00028696075485089864
+    },
+    "M2_resident_v_N200": {
+      "N": 200,
+      "resident": "v",
+      "root_success": true,
+      "residual_inf": 4.393956035066322e-11,
+      "minimum_R": 0.4821899217832067,
+      "minimum_W": 0.4821443200110483,
+      "resident_mass": 0.5052002253097939,
+      "absent_invasion_eigenvalue": 4.938559859197579e-06
+    },
+    "M3_resident_u_N200": {
+      "N": 200,
+      "resident": "u",
+      "root_success": true,
+      "residual_inf": 8.835235960815563e-11,
+      "minimum_R": 0.4822395717703711,
+      "minimum_W": 0.4821408695889282,
+      "resident_mass": 0.5052038927558246,
+      "absent_invasion_eigenvalue": 2.269565529140316e-06
+    },
+    "M3_resident_v_N200": {
+      "N": 200,
+      "resident": "v",
+      "root_success": true,
+      "residual_inf": 1.299546581456923e-11,
+      "minimum_R": 0.5045298801844221,
+      "minimum_W": 0.4815401169112706,
+      "resident_mass": 0.505711596984695,
+      "absent_invasion_eigenvalue": 0.0012748617704491567
+    }
+  },
+  "long_time_mesh": {
+    "local_M1": {
+      "T": 10000000.0,
+      "N": 48,
+      "mass_N48": [
+        0.5014971846875074,
+        6.7777536363363975e-16
+      ],
+      "mass_N32": [
+        0.5014978123044939,
+        6.654883177161743e-16
+      ],
+      "max_difference": 6.276169864927184e-07,
+      "final_mass_drift": [
+        -2.764787843112515e-09,
+        -9.334249999974263e-12
+      ]
+    },
+    "local_M2": {
+      "T": 10000000.0,
+      "N": 48,
+      "mass_N48": [
+        0.0017324420577335337,
+        0.4997017291676763
+      ],
+      "mass_N32": [
+        0.0017325758213611233,
+        0.4997021734096959
+      ],
+      "max_difference": 4.442420196149044e-07,
+      "final_mass_drift": [
+        -3.9607156530202525e-12,
+        1.4858533292638754e-09
+      ]
+    },
+    "nonlocal_M1": {
+      "T": 10000000.0,
+      "N": 48,
+      "mass_N48": [
+        0.4011887526579231,
+        -4.959021160078069e-16
+      ],
+      "mass_N32": [
+        0.40118924774780523,
+        -4.969208672422106e-16
+      ],
+      "max_difference": 4.950898821465266e-07,
+      "final_mass_drift": [
+        -3.9389758121899376e-10,
+        2.6752220102654714e-11
+      ]
+    },
+    "nonlocal_M2": {
+      "T": 10000000.0,
+      "N": 48,
+      "mass_N48": [
+        -1.3302322484238306e-17,
+        0.40114533952997394
+      ],
+      "mass_N32": [
+        -1.474176111675871e-17,
+        0.4011458003595975
+      ],
+      "max_difference": 4.6082962357196777e-07,
+      "final_mass_drift": [
+        6.796061481963616e-13,
+        -1.036266072951264e-10
+      ]
+    }
+  }
+}
