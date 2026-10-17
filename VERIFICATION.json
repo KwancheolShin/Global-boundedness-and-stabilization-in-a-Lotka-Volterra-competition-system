@@ -20,5 +20,91 @@
     "numpy": "2.4.6",
     "scipy": "1.18.0"
   },
-  "scope": "Representative Holling II and resident invasion reruns; no full rerun of all long integrations."
+  "scope": "Original representative rerun checks retained; all v1.1.0 robustness sweeps and 68 integrations newly executed. No full rerun of unchanged older long integrations or certification of analytical proofs.",
+  "new_robustness_experiments": {
+    "environment": {
+      "python": "3.12.14",
+      "numpy": "2.4.6",
+      "scipy": "1.18.0",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "sign_tolerance": 2e-09
+    },
+    "homogeneous_max_eigenvalue_error": 5.820332414926841e-11,
+    "spectral_shift_max_error": 6.804279362171428e-14,
+    "similarity_max_error": 1.453420717112408e-13,
+    "resident_jacobian_relative_error": 4.189547535210541e-11,
+    "full_jacobian_relative_error": 4.0014494678187744e-11,
+    "noflux_mass_balance_max_defect": 2.0816681711721685e-17,
+    "original_rhs_max_difference": 9.43689570931383e-16,
+    "mesh_100_200": {
+      "max_eigenvalue_difference": 1.7515348270935593e-06,
+      "max_qcritical_difference": 4.172791033152379e-06,
+      "class_disagreements": 0,
+      "paired_parameter_sets": 504
+    },
+    "mesh_200_400_selected": {
+      "max_eigenvalue_difference": 4.378401160798351e-07,
+      "max_qcritical_difference": 1.0430955081908166e-06,
+      "class_disagreements": 0,
+      "paired_parameter_sets": 36
+    },
+    "max_resident_residual": 4.988605531268397e-10,
+    "max_symmetric_eigen_residual": 4.4019543565809727e-10,
+    "baseline_crossings": [
+      {
+        "N": 100,
+        "case": "M2",
+        "rare": "u",
+        "ccritical": 0.020873919218392815,
+        "lambda_at_root": 8.571268694801404e-15
+      },
+      {
+        "N": 100,
+        "case": "M3",
+        "rare": "v",
+        "ccritical": 0.02037667914927419,
+        "lambda_at_root": -2.5424107263916085e-14
+      },
+      {
+        "N": 200,
+        "case": "M2",
+        "rare": "u",
+        "ccritical": 0.020872805591150137,
+        "lambda_at_root": 3.13690046160886e-14
+      },
+      {
+        "N": 200,
+        "case": "M3",
+        "rare": "v",
+        "ccritical": 0.020375671177453637,
+        "lambda_at_root": 1.823504888753824e-12
+      },
+      {
+        "N": 400,
+        "case": "M2",
+        "rare": "u",
+        "ccritical": 0.02087252851925919,
+        "lambda_at_root": 1.1159129176263605e-13
+      },
+      {
+        "N": 400,
+        "case": "M3",
+        "rare": "v",
+        "ccritical": 0.020375351468726547,
+        "lambda_at_root": -4.0939595463695966e-12
+      }
+    ],
+    "archived_baseline_max_eigenvalue_difference": 1.2340112730214927e-11,
+    "archived_baseline_max_crossing_difference": 7.834609894868949e-08,
+    "trajectories_100_200_max_final_mass_difference": 1.009174956934089e-06,
+    "trajectories_tight_tolerance_max_final_mass_difference": 8.881784197001252e-16,
+    "trajectories_tight_tolerance_max_mass_history_difference": 2.933632781143558e-09,
+    "trajectories_200_400_max_final_mass_difference": 7.889240105640738e-08,
+    "trajectories_max_final_residual": 6.948608355372698e-11,
+    "trajectories_max_stationary_distance": 1.0491607582707729e-13,
+    "trajectories_minimum_saved": -2.889578733963693e-13,
+    "trajectories_largest_leading_eigenvalue": -3.0133919784817827e-06,
+    "status": "passed"
+  },
+  "version": "1.1.0"
 }

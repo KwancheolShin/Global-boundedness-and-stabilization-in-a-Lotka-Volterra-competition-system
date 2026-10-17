@@ -107,3 +107,9 @@ Every new diagnostic JSON records its numerical residual or tolerances.
 Large computation times are possible if the BLAS thread limits are omitted.
 
 manifest.sha256.json records hashes of this package's files except itself.
+
+Additional self/cross-competition and robustness experiments (v1.1.0)
+------------------------------------------------------------------
+See README_robustness.txt. Recompute with python nonlocal_robustness.py all;
+regenerate the three added figures with python nonlocal_robustness.py plots.
+These additional calculations used Python 3.12.14 with the same package versions.
