@@ -1,7 +1,7 @@
 {
   ".gitattributes": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
   ".gitignore": "06f36ec6b00270fd3a5a63849cd1f82cfa25c30561fb208e4372e9c72bde3797",
-  "CITATION.cff": "a28ce687285b695c731dc88b521f5c7e3c7250d90c567fa02672471ff5eda875",
+  "CITATION.cff": "e242f6f95e52a08c4f1b773608d60aea5ccd294dfcdf220bc0522907ad02f724",
   "code_revision2/additional_experiments.py": "4bae52d5aa63ff66068a6f26ff493d9f8809eaad186800008d1938f367b5f374",
   "code_revision2/check_long_1d.py": "7e94db447e7736ec7c9c00c1ebd4a751c5258408546a7ab41d93c1029dce7385",
   "code_revision2/checkB.py": "75a36166133b674daf2435875a0e8f02fc7b1a94b4682987907bec0f1ea8a0d6",
@@ -14,7 +14,7 @@
   "code_revision2/figs3.py": "77fc30b8ec803ea29167fbe3c275ef38d9f92470c6c7cc353d73b570d1182ed0",
   "code_revision2/figs4.py": "9d1147e18cb42deefa57c1d00329e05ffcafbbfd7cc3853585bcb8ced6ab5ba7",
   "code_revision2/long2d.py": "015f92f7498116c0c1b514d2068756247513637c08a850d6fd029d8ad58982c5",
-  "code_revision2/manifest.sha256.json": "5f98c00f358b7548bf25ee9ae3ad9d6bd3c90bdb36de79010c422244f69b8839",
+  "code_revision2/manifest.sha256.json": "95395193120dc1c8be68bb6d72397b557d39e60744196d959040894dcd18214b",
   "code_revision2/README.txt": "8b2ee16a85a5eede5a2208f5dcb5bb7a8561022c109f3d17287910059f581d99",
   "code_revision2/README_revision2.txt": "8bb6b116c7dc5b488db5a0bed76e687fc7bdc6bb4017312a57243bbb90c73027",
   "code_revision2/refine_coexistence.py": "af7c104373d871f14d6482083804630e1cc2f689c63750c67d4e8c31e44c1449",
@@ -59,7 +59,7 @@
   "figures/rev2_fig6_coexistence.pdf": "7a3aeed728e49b5df1eac50221fe1fffb2cc57eb7283bc09505796ed5b55442e",
   "figures/rev2_fig7_invasion.pdf": "2054104d18114e029bf3b4d8d1156e772569cc41a215c2eac0476bde59ecc179",
   "figures/rev2_fig8_hollingII.pdf": "469e97cf766347ea031b17a1b77eb6105762f3a2abe18c4ad2a576c1a67e7718",
-  "README.md": "6605c23fe2585d5b2826c253def9be2f80729fc09bd1b2ff873c1ddb33985c89",
+  "README.md": "41bfa5a7eb8f5a6b0d540a42cf104ac9312f635553414ab9cdea15e483184177",
   "VERIFICATION.json": "0f8f7840313345a9c7ae5822641fb05a2b2685da9c8c80f675f14375282d4ff2",
-  "verify_repository.py": "fa8baf975e2a24c341bfbbb05c5d559a0a688a54754867bc50201c15bca0778d"
+  "verify_repository.py": "003432f96ae30c9efe2bff475166c472ab7635b50d96af8641c2d722227db7ba"
 }

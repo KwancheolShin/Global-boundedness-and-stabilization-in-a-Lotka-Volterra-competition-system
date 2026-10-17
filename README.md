@@ -67,7 +67,7 @@ The heterogeneous coexistence and invasion thresholds are numerical findings for
 
 ## Citation and contact
 
-Cite the repository using `CITATION.cff`, and include the release tag `v1.0.0` or an exact commit identifier for reproducibility. No archival DOI has been assigned. The GitHub source snapshot is the versioned record provided here.
+Cite the repository using `CITATION.cff`, and include the release tag `v1.0.1` or an exact commit identifier for reproducibility. No archival DOI has been assigned. The GitHub source snapshot is the versioned record provided here.
 
 Corresponding author: Kwancheol Shin, Korea University Sejong Campus, kcshin3623@korea.ac.kr.
 

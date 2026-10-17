@@ -29,6 +29,11 @@ def main():
         actual = hashlib.sha256(path.read_bytes()).hexdigest()
         if actual != expected:
             raise ValueError(f"SHA256 mismatch: {relative}")
+    original_root = ROOT / 'code_revision2'
+    original_manifest = json.loads((original_root / 'manifest.sha256.json').read_text(encoding='utf-8'))
+    for relative, expected in original_manifest.items():
+        if hashlib.sha256((original_root / relative).read_bytes()).hexdigest() != expected:
+            raise ValueError(f"Inner SHA256 mismatch: {relative}")
     scripts = sorted((ROOT / 'code_revision2').glob('*.py'))
     for path in scripts:
         compile(path.read_text(encoding='utf-8-sig'), str(path), 'exec')

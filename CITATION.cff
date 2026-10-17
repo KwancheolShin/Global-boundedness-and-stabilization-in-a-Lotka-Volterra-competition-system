@@ -9,10 +9,10 @@ authors:
     given-names: "Gurusamy"
   - family-names: "Shin"
     given-names: "Kwancheol"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-10-18"
 repository-code: "https://github.com/KwancheolShin/Global-boundedness-and-stabilization-in-a-Lotka-Volterra-competition-system"
-url: "https://github.com/KwancheolShin/Global-boundedness-and-stabilization-in-a-Lotka-Volterra-competition-system/tree/v1.0.0"
+url: "https://github.com/KwancheolShin/Global-boundedness-and-stabilization-in-a-Lotka-Volterra-competition-system/tree/v1.0.1"
 keywords:
   - Lotka-Volterra competition
   - density-suppressed motility
