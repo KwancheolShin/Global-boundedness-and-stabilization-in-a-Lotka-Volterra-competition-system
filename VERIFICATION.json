@@ -20,7 +20,7 @@
     "numpy": "2.4.6",
     "scipy": "1.18.0"
   },
-  "scope": "Original representative rerun checks retained; all v1.1.0 robustness sweeps and 68 integrations newly executed. No full rerun of unchanged older long integrations or certification of analytical proofs.",
+  "scope": "Original representative rerun checks retained; all v1.1.0 robustness sweeps and 68 integrations newly executed. No full rerun of unchanged older long integrations or certification of analytical proofs. v1.2.0 adds the ideal-free threshold computation, an early-time spatial-order check and a one-dimensional mesh refinement of Experiment C; earlier files are unchanged.",
   "new_robustness_experiments": {
     "environment": {
       "python": "3.12.14",
@@ -106,5 +106,39 @@
     "trajectories_largest_leading_eigenvalue": -3.0133919784817827e-06,
     "status": "passed"
   },
-  "version": "1.1.0"
+  "version": "1.1.0",
+  "v1_2_0_additions": {
+    "environment": {
+      "python": "3.14.6",
+      "numpy": "2.4.6",
+      "scipy": "1.18.0",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "sign_tolerance": 2e-09
+    },
+    "ideal_free_threshold": {
+      "all_kstar_below_ifd_value": true,
+      "deficit_over_eta_squared_range": [
+        0.07863705598563936,
+        0.09992504156883796
+      ],
+      "threshold_mesh_max_difference_N100_200_400": 4.810049976100572e-06,
+      "max_resident_residual": 1.8611833515341791e-10,
+      "archived_grid_points_agree": 350,
+      "archived_grid_points_checked": 350
+    },
+    "spatial_order": {
+      "one_dimension_t0_1": [
+        1.999256558214029,
+        1.9998147257559105,
+        1.9999537179659677
+      ],
+      "two_dimensions_t0_1": [
+        1.9961111632239263
+      ]
+    },
+    "expC_mesh_1d": {
+      "max_final_difference": 8.927537167857658e-07,
+      "max_history_difference": 1.5020736942816804e-05
+    }
+  }
 }
